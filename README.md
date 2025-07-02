@@ -1,4 +1,4 @@
-# Expense Tracker App — COMP4768 Assignment 3
+# Expense Tracker App — Youtube Demo Link: https://youtube.com/shorts/bj0u58oK8ds
 
 This repo contains a fully‑featured Flutter expense tracker that **meets *all* core and optional requirements** outlined in the assignment:
 
