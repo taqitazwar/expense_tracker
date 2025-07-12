@@ -1,5 +1,5 @@
 # 💰 Expense Tracker App  
-📺 **YouTube Demo**: [https://youtube.com/shorts/bj0u58oK8ds](https://youtube.com/shorts/bj0u58oK8ds)
+📺 **YouTube Demo**: [https://youtube.com/shorts/bj0u58oK8ds](https://www.youtube.com/watch?v=c9j_gt3IjJI)
 
 ![App Screenshot](./expensetracker.png)
 
